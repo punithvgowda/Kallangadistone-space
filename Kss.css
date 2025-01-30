@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+  
+  
+}
+
+#top{
+    display: inline-block;
+    border:2px solid black;
+    width: 1706px;
+    height: 80px;
+    position: fixed;
+    background-color:#7b8288d7;
+  
+    z-index:1;
+}
+#logo{
+    height: 70px;
+    width: 190px;
+    position: absolute;
+    left: 120px;
+    
+}
+#main{
+    display: inline-block;
+    border: 2px solid black;
+    height:1000px;
+    width: 1220px;
+    position: absolute;
+    top:85px;
+    left: 240px;
+  
+}
+#sbox{
+    display: inline-block;
+    border: 2px solid rgb(36, 36, 36);
+    height: 48px;
+    width: 905px;
+    position: absolute;
+    left:320px;
+    top: 13px;
+    background-color:#ffffff;
+    border-radius: 12px;
+}
+span{
+    
+    margin-left: 879px;
+    position: absolute;
+}
+input{
+    display: inline-block;
+    width: 870px;
+    position: absolute;
+    height: 44px;
+    border-radius: 10px;
+}
+#icons{
+    position: absolute;
+    left: 1250px;
+    top: 12px;
+}
